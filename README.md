@@ -1,2 +1,2 @@
-[![DU.JS](https://raw.githubusercontent.com/ausername-1/du.js/main/assets/du-js.png "DU.JS")](https://raw.githubusercontent.com/ausername-1/du.js "DU.JS")
-                                                                          Hello world!
+[![du.js](https://raw.githubusercontent.com/ausername-1/du.js/main/assets/du-small.png "du.js")](https://github.com/ausername-1/du.js "du.js")
+Hello world!
